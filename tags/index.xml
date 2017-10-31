@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Glovlet - Advance Tracking Gloves</title>
-    <link>/tags/</link>
+    <link>glovelet.github.io/tags/</link>
     <description>Recent content in Tags on Glovlet - Advance Tracking Gloves</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 UTA PiedPiper</copyright>
     <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="glovelet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/tags/development/</link>
+      <link>glovelet.github.io/tags/development/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/development/</guid>
+      <guid>glovelet.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/tags/introduction/</link>
+      <link>glovelet.github.io/tags/introduction/</link>
       <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/introduction/</guid>
+      <guid>glovelet.github.io/tags/introduction/</guid>
       <description></description>
     </item>
     
