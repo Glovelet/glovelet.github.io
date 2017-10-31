@@ -1,2 +1,0 @@
-# glovelet.github.io
-website
