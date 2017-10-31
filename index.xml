@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glovlet - Advance Tracking Gloves</title>
+    <link>/</link>
+    <description>Recent content on Glovlet - Advance Tracking Gloves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017 UTA PiedPiper (Special thanks to Yurizal)</copyright>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get To Know Us</title>
+      <link>/blog/introduction/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/introduction/</guid>
+      <description> Team Behind This Project Arnav Garg Computer Science Senior
+Joseph Tompkins Software Engineering Senior
+Prasoon Gautam Computer Science Senior
+Ravindra Javedkar Computer Engineering Senior
+Sushil Bista Computer Engineering Senior
+if __name__ == &#39;__main__&#39;: print(&#39;Stay tuned!&#39;)  </description>
+    </item>
+    
+  </channel>
+</rss>
