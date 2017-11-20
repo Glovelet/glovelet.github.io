@@ -6,10 +6,19 @@
     <description>Recent content on Glovlet - Advance Tracking Gloves</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 UTA PiedPiper</copyright>
-    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2017 14:46:31 -0600</lastBuildDate>
     
 	<atom:link href="glovelet.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Joseph</title>
+      <link>glovelet.github.io/blog/joseph/</link>
+      <pubDate>Mon, 20 Nov 2017 14:46:31 -0600</pubDate>
+      
+      <guid>glovelet.github.io/blog/joseph/</guid>
+      <description>Testing joseph</description>
+    </item>
     
     <item>
       <title>Get To Know Us</title>
